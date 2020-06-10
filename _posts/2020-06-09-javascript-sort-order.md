@@ -20,7 +20,7 @@ Browser compatibility: IE9+
 ## 大到小排序
 
 		var arr = [ 1, 3, 2 ];
-		arr.sort( ( a, b ) => ( a > b ? -1 : 1 ) )
+		arr.sort( function ( a, b ) { return ( a > b ? -1 : 1 ) } )
 		console.log( arr ); // [ 3, 2, 1 ]
 
 ---
@@ -36,6 +36,7 @@ Browser compatibility: IE9+
 		        return accumulator;
 		}, {});
 		console.log( obj ); // { a: 1, b: 2, c:3 }
+
 
 ## 大到小排序
 
