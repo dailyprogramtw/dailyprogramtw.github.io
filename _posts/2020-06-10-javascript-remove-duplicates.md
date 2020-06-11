@@ -5,7 +5,9 @@ date:   2020-06-10 00:00:00 +0800
 categories: javascript
 ---
 
-Browser compatibility: IE9+
+Keyword: `filter`, `some` and `Object.keys`.
+
+Browser compatibility: Internet Explorer 9+, Edge, Chrome, Firefox and Safari.
 
 ---
 
