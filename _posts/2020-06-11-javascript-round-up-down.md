@@ -81,5 +81,3 @@ Browser compatibility: Internet Explorer 5.5+, Edge, Chrome, Firefox and Safari.
 
 		console.log( Math.abs( 3 ) ); // 3
 		console.log( Math.abs( -3 ) ); // 3
-
----
